@@ -16,66 +16,69 @@ int main()
     string x;
     cin >> x;
 
-    if(x == "a"){
-        std::cout << "=e\n";
+    if(x == "e"){
+        std::cout << "=a\n";
 
     }
-    if(x == "c"){
-        std::cout << "=i\n";
-
-            }
-    if(x == "d"){
-        std::cout << "=t\n";
-
-            }
-    if(x == "e"){
-        std::cout << "=j\n";
-
-            }
-    if(x == "f"){
+    if(x == "i"){
         std::cout << "=c\n";
 
             }
-    if(x == "g"){
-        std::cout << "=k\n";
+    if(x == "t"){
+        std::cout << "=d\n";
 
             }
-    if(x == "h"){
-        std::cout << "=r\n";
+    if(x == "j"){
+        std::cout << "=e\n";
 
             }
-    if(x == "i"){
-        std::cout << "=x\n";
+    if(x == "c"){
+        std::cout << "=f\n";
 
             }
-    if(x == "l"){
-        std::cout << "=y\n";
-
-            }
-    if(x == "m"){
-        std::cout << "=z\n";
-
-            }
-    if(x == "n"){
-        std::cout << "=a\n";
+    if(x == "k"){
+        std::cout << "=g\n";
 
             }
     if(x == "r"){
-        std::cout << "=b\n";
+        std::cout << "=h\n";
 
             }
-    if(x == "s"){
-        std::cout << "=p\n";
+    if(x == "x"){
+        std::cout << "=i\n";
+
+            }
+    if(x == "y"){
+        std::cout << "=l\n";
+
+            }
+    if(x == "z"){
+        std::cout << "=m\n";
+
+            }
+    if(x == "a"){
+        std::cout << "=n\n";
+
+            }
+    if(x == "b"){
+        std::cout << "=r\n";
+
+            }
+    if(x == "p"){
+        std::cout << "=s\n";
 
             }
     if(x == "u"){
         std::cout << "=u\n";
 
             }
-    if(x == "z"){
-        std::cout << "=d\n";
+    if(x == "d"){
+        std::cout << "=z\n";
 
             }
+    if(x == "q"){
+        std::cout << "=v\n";
+    }
     std::cout << "next letter";
     }
 
